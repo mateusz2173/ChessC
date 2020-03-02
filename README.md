@@ -1,7 +1,7 @@
 # ChessC  
   
 Istrukcja kompilacji i uruchamiania:  
-a) System zawiera zainstalowaną biblioteki allegro5:  
+a) System zawiera zainstalowane biblioteki allegro5:  
   
 git clone https://github.com/mateusz2173/ChessC.git  
 cd ChessC  
